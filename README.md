@@ -2,11 +2,9 @@
 Screenshots of ALC Qwiklab Projects
 
 ## App Engine
-<hr />
 ![App Engine](./images/alc-app-engine.jpeg)
 
 ## BigQuery
-<hr />
 ![Big Query](./images/alc-bigquery.jpeg)
 
 ## Billing Data
